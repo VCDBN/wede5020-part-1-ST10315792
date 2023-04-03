@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+}
+
+
+header{
+    background-color: whitesmoke;
+    float: right;
+    padding: 10px;
+}
+
+
+
+
+.topnav{
+    overflow: hidden;
+    background-color: darkcyan;
+}
+
+.topnav a{
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.topnav a:hover{
+
+    background-color: cadetblue;
+    color:rgb(7, 106,136);
+}
+
+.column.middle{
+    padding: 10px;
+    height: 70vh;
+    width: 70vw;
+}
+
+footer{
+    background-color: darkcyan;
+    padding: 10px;
+    text-align: center;
+}
